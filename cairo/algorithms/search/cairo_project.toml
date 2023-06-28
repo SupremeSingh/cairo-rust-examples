@@ -1,0 +1,2 @@
+[crate_roots]
+algorithms_search = "src"
